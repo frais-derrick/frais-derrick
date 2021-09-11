@@ -1,4 +1,4 @@
-HOW TO STREAM RT VIDEO over UDP ?
+# HOW TO STREAM RT VIDEO over UDP ?
 
 
 WINDOWS      (IP = 192.168.2.11) : setup VLC to grab desktop and stream it to RASPI IP (eg 192.168.2.55 )
